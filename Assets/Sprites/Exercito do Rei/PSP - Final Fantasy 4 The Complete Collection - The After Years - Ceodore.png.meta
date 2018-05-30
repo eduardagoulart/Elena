@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 103f5bf8b5ca6ef4f8293247b16785ff
+timeCreated: 1525710828
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_0
+    21300002: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_1
+    21300004: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_2
+    21300006: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_3
+    21300008: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_4
+    21300010: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_5
+    21300012: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_6
+    21300014: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_7
+    21300016: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_8
+    21300018: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_9
+    21300020: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_10
+    21300022: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_11
+    21300024: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_12
+    21300026: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_13
+    21300028: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_14
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 96
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 96
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 96
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 51
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 48
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 10
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PSP - Final Fantasy 4 The Complete Collection - The After Years - Ceodore_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
